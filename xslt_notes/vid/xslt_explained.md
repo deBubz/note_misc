@@ -19,21 +19,7 @@ must have basic for xlt
 
 for-each things
 - `select` will ONLY picks and display one output even in a `for-each` tag
-
-```xml
-<task-list> 
-    <task>eat</task>
-    <task>sleep</task>
-    <task>code</task>
-</task-list>
-```
-
-do this
-```xslt
-<xsl:for-each select="task-list">
-    <li><xsl:value-of select="task" /> </li>
-<xsl:for-each>
-```
+- there are some funky interactions with the for-loop and value-of stuff, have a look of the `task_list` files in `random_testing`
 
 > alright i cant just follow random videos for this, need to practice
 

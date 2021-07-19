@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="task_listing.xsl" type="text/xsl"?>
+<task-list>
+    <day>
+        <day-name>day 1</day-name>
+        <todos>
+            <task>eat</task>
+            <task>sleep</task>
+            <task>code</task>
+            <task>repeat</task>
+        </todos>
+    </day>
+    <day>
+        <day-name>day 2</day-name>
+        <todos>
+            <task>eat</task>
+            <task>sleep</task>
+            <task>code</task>
+            <task>repeat</task>
+        </todos>
+    </day>
+    <day>
+        <day-name>day 3</day-name>
+        <todos>
+            <task>eat</task>
+            <task>sleep</task>
+            <task>code</task>
+            <task>repeat</task>
+        </todos>
+    </day>
+    <day>
+        <day-name>day 3</day-name>
+        <todos>
+            <task>eat</task>
+            <task>sleep</task>
+            <task>code</task>
+            <task>repeat</task>
+        </todos>
+    </day>
+    <day>
+        <day-name>day 4</day-name>
+        <todos>
+            <task>eat</task>
+            <task>sleep</task>
+            <task>code</task>
+            <task>repeat</task>
+        </todos>
+    </day>
+    <day>
+        <day-name>day 5</day-name>
+        <todos>
+            <task>eat</task>
+            <task>sleep</task>
+            <task>code</task>
+            <task>repeat</task>
+        </todos>
+    </day>
+</task-list>
